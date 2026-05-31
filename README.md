@@ -87,12 +87,14 @@ The project focuses on game feel, progression curves, UI/UX and mobile gameplay 
 
 ---
 
-## What I am working on now
+## Current focus
 
-* Improving my ML engineering portfolio
-* Building practical ML projects with clear documentation
-* Studying production-oriented ML workflows
-* Improving GitHub project structure and technical presentation
+I am currently focused on strengthening my ML engineering portfolio through practical projects, reproducible pipelines and production-oriented development.
+
+* Building applied ML projects with clear problem statements, metrics and documented results
+* Improving NLP and classical ML workflows: TF-IDF, CatBoost, validation and feature engineering
+* Developing web and backend skills to turn ML prototypes into usable applications
+* Practicing project structure, documentation, deployment basics and GitHub presentation
 
 ---
 
