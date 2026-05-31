@@ -47,42 +47,43 @@ My current focus is applied ML: classification, text processing, feature enginee
 
 ## Featured projects
 
-### Medical AI Hackathon
+### [Medical AI Hackathon](https://github.com/dmitriyrabota90-svg/hackathon)
 
-AI assistant for occupational health screening.
-The project uses classical machine learning techniques, text features and validation logic to support medical decision-making workflows.
+AI assistant for occupational health screening and contraindication analysis.
+The project combines medical examination data, text processing and classical machine learning to support expert review.
 
-**Stack:** Python, CatBoost, TF-IDF, Scikit-learn, FastAPI
-**Repository:** [hackathon](https://github.com/dmitriyrabota90-svg/hackathon)
-
----
-
-### Municipal Procurement Website
-
-Official-style website for the municipal procurement department of Belgorod.
-The project focuses on structured public information, news, analytics, documents and a modern government-style interface.
-
-**Stack:** Next.js, TypeScript, Tailwind CSS
-**Repository:** [umz](https://github.com/dmitriyrabota90-svg/umz)
+**What it demonstrates:** applied ML pipeline, text features, CatBoost, validation logic, explainable decision support.
+**Stack:** Python · CatBoost · TF-IDF · Scikit-learn · FastAPI · TypeScript
 
 ---
 
-### Ochag
+### [Municipal Procurement Website](https://github.com/dmitriyrabota90-svg/umz)
 
-Family task and reward application concept.
-A product-oriented project about family tasks, shared goals, internal rewards and gamified motivation.
+Official-style public website for the municipal procurement department of Belgorod.
+The project focuses on structured public information, analytics, documents, news and a modern government-style interface.
 
-**Stack:** Mobile app architecture, product design, backend logic
-**Repository:** [ochag](https://github.com/dmitriyrabota90-svg/ochag)
+**What it demonstrates:** production-oriented frontend, public-sector UX, structured content, responsive layout.
+**Stack:** Next.js · TypeScript · React · Tailwind CSS
 
 ---
 
-### FPV Last Run / Drone Strike
+### [Ochag](https://github.com/dmitriyrabota90-svg/ochag)
 
-Mobile arcade game project with FPV drone mechanics, progression, collectibles and gameplay balancing.
+Family task and rewards application concept with gamified motivation, shared goals, roles and internal currency.
+The project is focused on product logic, family workflows and a clear MVP architecture.
 
-**Stack:** Flutter, mobile game development, game design
-**Repository:** [drone_strike](https://github.com/dmitriyrabota90-svg/drone_strike)
+**What it demonstrates:** product thinking, entity design, user flows, reward mechanics, backend logic.
+**Stack:** Mobile app architecture · Product design · Backend logic
+
+---
+
+### [FPV Last Run / Drone Strike](https://github.com/dmitriyrabota90-svg/drone_strike)
+
+Mobile 2D arcade game with FPV drone mechanics, level progression, collectibles and gameplay balancing.
+The project focuses on game feel, progression curves, UI/UX and mobile gameplay loops.
+
+**What it demonstrates:** mobile development, game mechanics, balancing, UI assets, iterative QA.
+**Stack:** Flutter · Dart · Mobile game development · Game design
 
 ---
 
