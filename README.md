@@ -2,6 +2,14 @@
 
 **ML Engineer in progress · Python · NLP · Web applications**
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-ML%20%26%20Data-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/CatBoost-Gradient%20Boosting-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-TF--IDF%20%7C%20Text%20ML-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-Web%20Apps-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Docker-Deployment%20%26%20DevOps-blue?style=for-the-badge&logo=docker" />
+</p>
+
 I build practical software projects at the intersection of **machine learning, data processing and web development**.
 My current focus is applied ML: classification, text processing, feature engineering, model evaluation and building usable products around data.
 
